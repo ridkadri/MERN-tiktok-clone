@@ -7,4 +7,4 @@
 
 ### `npm or yarn start`
 
-##Enjoy!
+### You might want to replace video URL's with new TikTok videos!
